@@ -1,2 +1,2 @@
 # IBM Data Science Professional Certificate
-IBM Data Science Professional Certificate Assignment
+IBM Data Science Professional Certificate Projects
